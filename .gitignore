@@ -2,3 +2,6 @@ Build/
 Temp/
 Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
 Library/
+*.sln
+*.csproj
+.vs/
