@@ -10,7 +10,7 @@ public class BuildDirector {
     static string APP_NAME = "MagicCube";
     static string TARGET_DIR = "Build";
 
-    [MenuItem("Custom/CI/Build Mac OS X")]
+    [MenuItem("Custom/CI/Build Win")]
     static void PerformWinBuild()
     {
         string target_dir = APP_NAME + ".app";
